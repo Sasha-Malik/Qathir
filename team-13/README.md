@@ -82,7 +82,7 @@ make html
 
 ## Acknowledgements
 
-**Core Devs:** Anubhav Shrestha, Deepesh Garg, Dhruv Srinivasan, Dilyara Sharipova, Oyungerel Amarsanaa, Samhitha Bharthulwar, Sasha, Shantanu Jha, Tasnim Ahmed, Yeji Han
+**Core Devs:** Anubhav Shrestha, Deepesh Garg, Dhruv Srinivasan, Dilyara Sharipova, Oyungerel Amarsanaa, Samhitha Bharthulwar, Sasha Malik, Shantanu Jha, Tasnim Ahmed, Yeji Han
 
 
 This project was created by the qathar team at NYUAD Hack 2023.

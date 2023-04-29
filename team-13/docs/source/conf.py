@@ -63,6 +63,8 @@ html_theme = "sphinx_book_theme"
 html_theme_options = {
     "repository_url": "https://github.com/qcnet/NYUAD-2023",
     "use_repository_button": True,
+    "globaltoc_collapse": True,
+    "globaltoc_maxdepth": -1,
 }
 
 html_title = "NYUAD 2023"
