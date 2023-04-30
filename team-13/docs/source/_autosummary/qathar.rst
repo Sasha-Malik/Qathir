@@ -1,7 +1,7 @@
-﻿qathar
+﻿qathr
 ======
 
-.. automodule:: qathar
+.. automodule:: qathr
 
    
    

@@ -1,8 +1,8 @@
-# qathar
+# qathr
 <p align="center">
   <img src="https://img.shields.io/static/v1?style=for-the-badge&label=code-status&message=Good&color=orange"/>
   <img src="https://img.shields.io/static/v1?style=for-the-badge&label=initial-commit&message=Shantanu&color=inactive"/>
-    <img src="https://img.shields.io/static/v1?style=for-the-badge&label=maintainer&message=qathar&color=inactive"/>
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&label=maintainer&message=qathr&color=inactive"/>
 </p>
 
 
@@ -14,31 +14,31 @@ This repo is a template for python package creation.
 
 ## Installation
 
-*Conda users, please make sure to `conda install pip` before running any pip installation if you want to install `qathar` into your conda environment.*
+*Conda users, please make sure to `conda install pip` before running any pip installation if you want to install `qathr` into your conda environment.*
 
-`qathar` may soon be published on PyPI. Once it is, simply run the following code to install the package:
+`qathr` may soon be published on PyPI. Once it is, simply run the following code to install the package:
 
 ```bash
-pip install qathar
+pip install qathr
 ```
-If you also want to download the dependencies needed to run optional tutorials, please use `pip install qathar[dev]` or `pip install 'qathar[dev]'` (for `zsh` users).
+If you also want to download the dependencies needed to run optional tutorials, please use `pip install qathr[dev]` or `pip install 'qathr[dev]'` (for `zsh` users).
 
 
 To check if the installation was successful, run:
 
 ```bash
-python -c "import qathar"
+python -c "import qathr"
 ```
 
 This should execute silently if installation was successful.
 
 ## Building from source
 
-To build `qathar` from source, pip install using:
+To build `qathr` from source, pip install using:
 
 ```bash
-git clone git@github.com:qcnet/NYUAD-2023.git qathar
-cd team-13/qathar
+git clone git@github.com:qcnet/NYUAD-2023.git qathr
+cd team-13/qathr
 pip install --upgrade .
 ```
 
@@ -46,10 +46,10 @@ If you also want to download the dependencies needed to run optional tutorials, 
 
 #### Installation for Devs
 
-If you intend to contribute to this project, please install `qathar` in editable mode as follows:
+If you intend to contribute to this project, please install `qathr` in editable mode as follows:
 ```bash
-git clone git@github.com:qcnet/NYUAD-2023.git qathar
-cd team-13/qathar
+git clone git@github.com:qcnet/NYUAD-2023.git qathr
+cd team-13/qathr
 pip install -e .[dev]
 ```
 
@@ -82,8 +82,8 @@ make html
 
 ## Acknowledgements
 
-**Core Devs:** Anubhav Shrestha, Deepesh Garg, Dhruv Srinivasan, Dilyara Sharipova, Oyungerel Amarsanaa, Samhitha Bharthulwar, Sasha, Shantanu Jha, Tasnim Ahmed, Yeji Han
+**Core Devs:** Anubhav Shrestha, Deepesh Garg, Dhruv Srinivasan, Dilyara Sharipova, Oyungerel Amarsanaa, Samhitha Bharthulwar, Sasha Malik, Shantanu Jha, Tasnim Ahmed, Yeji Han
 
 
-This project was created by the qathar team at NYUAD Hack 2023.
+This project was created by the qathr team at NYUAD Hack 2023.
 

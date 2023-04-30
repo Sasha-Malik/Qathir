@@ -6,8 +6,8 @@ import os
 from setuptools import setup, find_namespace_packages
 
 
-DIST_NAME = "qathar"
-PACKAGE_NAME = "qathar"
+DIST_NAME = "qathr"
+PACKAGE_NAME = "qathr"
 
 REQUIREMENTS = [
     "numpy",
@@ -59,7 +59,7 @@ setup(
     long_description=README,
     long_description_content_type="text/markdown",
     url="https://github.com/qcnet/NYUAD-2023",
-    author="Anubhav Shrestha, Deepesh Garg, Dhruv Srinivasan, Dilyara Sharipova, Oyungerel Amarsanaa, Samhitha Bharthulwar, Sasha, Shantanu Jha, Tasnim Ahmed, Yeji Han",
+    author="Anubhav Shrestha, Deepesh Garg, Dhruv Srinivasan, Dilyara Sharipova, Oyungerel Amarsanaa, Samhitha Bharthulwar, Sasha Malik, Shantanu Jha, Tasnim Ahmed, Yeji Han",
     author_email="shantanu.rajesh.jha@gmail.com",
     license="MIT",
     packages=find_namespace_packages(exclude=["tutorials*"]),

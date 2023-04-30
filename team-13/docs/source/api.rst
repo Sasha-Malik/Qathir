@@ -1,12 +1,12 @@
 API reference
 =============
 
-qathar
+qathr
 
 .. autosummary::
    :toctree: _autosummary
    :template: custom-module-template.rst
    :recursive:
 
-   qathar 
+   qathr 
    
