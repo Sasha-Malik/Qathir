@@ -1,4 +1,4 @@
-# كثر | Qathr
+# Qathr | كثر 
 
 <p align="center">
   <img src="https://img.shields.io/static/v1?style=for-the-badge&label=code-status&message=Good&color=orange"/>
