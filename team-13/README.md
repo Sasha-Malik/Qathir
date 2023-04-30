@@ -1,4 +1,5 @@
-# qathr
+# كثر | Qathr
+
 <p align="center">
   <img src="https://img.shields.io/static/v1?style=for-the-badge&label=code-status&message=Good&color=orange"/>
   <img src="https://img.shields.io/static/v1?style=for-the-badge&label=initial-commit&message=Shantanu&color=inactive"/>
@@ -6,11 +7,13 @@
 </p>
 
 
-**Documentation**: TODO
+<!-- **Documentation**: TODO -->
 
 ## Motivation
 
-This repo is a template for python package creation.
+By leveraging our quantum-enhanced end-to-end solution for cost-efficient sensor placement and rapid fault and vulnerability localization, Qathr enables the robust and efficient use of the increasingly complex water distribution networks of tomorrow.
+
+Please check out our [presentation](https://docs.google.com/presentation/d/e/2PACX-1vRwLkgCpkB5gSSmqP016QIRihLcBpB13e0bkr3gk_eS7b2I5p0nWXYEDG7E5tB5AnMWsFPpO7QcXLCa/pub?start=false&loop=false&delayms=3000) from NYUAD Hack 2023 to learn more about this project. 
 
 ## Installation
 
@@ -59,7 +62,7 @@ Installing the package in the usual non-editable mode would require a developer 
 
 ## Documentation
 
-Documentation should be viewable here: TODO
+<!-- Documentation should be -->
 
 #### View locally
 
@@ -85,5 +88,5 @@ make html
 **Core Devs:** Anubhav Shrestha, Deepesh Garg, Dhruv Srinivasan, Dilyara Sharipova, Oyungerel Amarsanaa, Samhitha Bharthulwar, Sasha Malik, Shantanu Jha, Tasnim Ahmed, Yeji Han
 
 
-This project was created by the qathr team at NYUAD Hack 2023.
+This project was created by the Qathr team at NYUAD Hack 2023.
 
