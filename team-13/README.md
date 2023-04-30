@@ -1,9 +1,9 @@
-# Qathr | كثر 
+# Qathir | كثير
 
 <p align="center">
   <img src="https://img.shields.io/static/v1?style=for-the-badge&label=code-status&message=Good&color=orange"/>
   <img src="https://img.shields.io/static/v1?style=for-the-badge&label=initial-commit&message=Shantanu&color=inactive"/>
-    <img src="https://img.shields.io/static/v1?style=for-the-badge&label=maintainer&message=qathr&color=inactive"/>
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&label=maintainer&message=qathir&color=inactive"/>
 </p>
 
 
@@ -11,37 +11,37 @@
 
 ## Motivation
 
-By leveraging our quantum-enhanced end-to-end solution for cost-efficient sensor placement and rapid fault and vulnerability localization, Qathr enables the robust and efficient use of the increasingly complex water distribution networks of tomorrow.
+By leveraging our quantum-enhanced end-to-end solution for cost-efficient sensor placement and rapid fault and vulnerability localization, qathir enables the robust and efficient use of the increasingly complex water distribution networks of tomorrow.
 
 Please check out our [presentation](https://docs.google.com/presentation/d/e/2PACX-1vRwLkgCpkB5gSSmqP016QIRihLcBpB13e0bkr3gk_eS7b2I5p0nWXYEDG7E5tB5AnMWsFPpO7QcXLCa/pub?start=false&loop=false&delayms=3000) from NYUAD Hack 2023 to learn more about this project. 
 
 ## Installation
 
-*Conda users, please make sure to `conda install pip` before running any pip installation if you want to install `qathr` into your conda environment.*
+*Conda users, please make sure to `conda install pip` before running any pip installation if you want to install `qathir` into your conda environment.*
 
-`qathr` may soon be published on PyPI. Once it is, simply run the following code to install the package:
+`qathir` may soon be published on PyPI. Once it is, simply run the following code to install the package:
 
 ```bash
-pip install qathr
+pip install qathir
 ```
-If you also want to download the dependencies needed to run optional tutorials, please use `pip install qathr[dev]` or `pip install 'qathr[dev]'` (for `zsh` users).
+If you also want to download the dependencies needed to run optional tutorials, please use `pip install qathir[dev]` or `pip install 'qathir[dev]'` (for `zsh` users).
 
 
 To check if the installation was successful, run:
 
 ```bash
-python -c "import qathr"
+python -c "import qathir"
 ```
 
 This should execute silently if installation was successful.
 
 ## Building from source
 
-To build `qathr` from source, pip install using:
+To build `qathir` from source, pip install using:
 
 ```bash
-git clone git@github.com:qcnet/NYUAD-2023.git qathr
-cd team-13/qathr
+git clone git@github.com:qcnet/NYUAD-2023.git qathir
+cd team-13/qathir
 pip install --upgrade .
 ```
 
@@ -49,10 +49,10 @@ If you also want to download the dependencies needed to run optional tutorials, 
 
 #### Installation for Devs
 
-If you intend to contribute to this project, please install `qathr` in editable mode as follows:
+If you intend to contribute to this project, please install `qathir` in editable mode as follows:
 ```bash
-git clone git@github.com:qcnet/NYUAD-2023.git qathr
-cd team-13/qathr
+git clone git@github.com:qcnet/NYUAD-2023.git qathir
+cd team-13/qathir
 pip install -e .[dev]
 ```
 
@@ -88,5 +88,5 @@ make html
 **Core Devs:** Anubhav Shrestha, Deepesh Garg, Dhruv Srinivasan, Dilyara Sharipova, Oyungerel Amarsanaa, Samhitha Bharthulwar, Sasha Malik, Shantanu Jha, Tasnim Ahmed, Yeji Han
 
 
-This project was created by the Qathr team at NYUAD Hack 2023.
+This project was created by the qathir team at NYUAD Hack 2023.
 

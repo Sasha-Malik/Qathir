@@ -21,6 +21,9 @@ import rustworkx
 import matplotlib.pyplot as plt
 from rustworkx.visualization import mpl_draw
 
+import pandas as pd
+import random
+
 
 from pyqubo import Binary
 from pyqubo import Array

@@ -20,9 +20,9 @@ sys.path.insert(0, os.path.abspath(".." + os.sep + ".."))
 
 # -- Project information -----------------------------------------------------
 
-project = "qathr"  # TODO: update this with your package name
-copyright = "2022, qathr"
-author = "qathr"
+project = "qathir"  # TODO: update this with your package name
+copyright = "2022, qathir"
+author = "qathir"
 
 # The full version, including alpha/beta/rc tags
 release = "0.1.0"  # TODO: read from VERSION.txt
