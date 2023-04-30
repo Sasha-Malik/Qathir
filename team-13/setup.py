@@ -6,8 +6,8 @@ import os
 from setuptools import setup, find_namespace_packages
 
 
-DIST_NAME = "qathar"
-PACKAGE_NAME = "qathar"
+DIST_NAME = "qathr"
+PACKAGE_NAME = "qathr"
 
 REQUIREMENTS = [
     "numpy",
